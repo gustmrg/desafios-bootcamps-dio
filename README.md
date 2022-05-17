@@ -6,6 +6,7 @@ Neste repositório você vai encontrar todos os exercícios que realizei durante
 
 * Avanade CodeAnywhere .NET #2
 * everis/NTT Data New Talents #2 .NET
+* GFT Start #5 (em curso)
 
 ### Linguagens
 
